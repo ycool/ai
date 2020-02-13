@@ -5,3 +5,5 @@ set -x
 pip install gym
 
 pip install matplotlab
+
+pip install opencv-python
