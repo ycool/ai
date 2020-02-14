@@ -9,3 +9,8 @@ pip install matplotlab
 pip install opencv-python
 
 pip install torchvision
+
+pip install numpy tqdm
+
+
+
